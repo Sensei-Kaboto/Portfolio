@@ -208,6 +208,21 @@ a:hover {
 
 }
 
+.hero__circle {
+    position: absolute;
+    top: 254px;;
+    right: 0;
+    translate: 50%;
+
+}
+
+.hero__rings {
+    position:absolute;
+    left:0;
+    top:0
+
+}
+
 .hero__text{
     position: relative;
     text-align: center;
